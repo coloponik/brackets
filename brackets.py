@@ -15,7 +15,6 @@ def checkBrackets(inStr):
             print('\n Error: ' + str(e))
     else:
         print('\n There are no brackets in the line.')
-        return not(brackets)
 
 try:
     while True:
